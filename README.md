@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">🎯 Apaixonado por tecnologia, explorando o mundo do Python e do Java...<br>🧠 Tentando fazer o computador me entender...<br>🌱 Estudando...</h6>
+<h4 align="center">🎯 Apaixonado por tecnologia, explorando o mundo do Python e do Java...<br>🧠 Tentando fazer o computador me entender...<br>🌱 Estudando...</h4>
 
 ###
 
