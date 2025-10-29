@@ -35,4 +35,16 @@
   
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" width="700">
+</p>
+
+<br/>
+
+<a href="https://github.com/ThiagoAGJ" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
+
 
