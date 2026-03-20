@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/mongodb@7.1.0/lib/cmap/command_monitoring_events.min.js" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/npm/html@1.0.0/lib/html.min.js" height="40" alt="MongoDB logo" />
   
 </div>
 
