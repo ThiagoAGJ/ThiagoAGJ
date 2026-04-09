@@ -7,8 +7,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo"  />
@@ -19,7 +17,9 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="HTML logo"  />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"  />
 </div>
 
 ###
