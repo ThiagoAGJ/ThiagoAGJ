@@ -7,17 +7,19 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="HTML logo"  />
 </div>
 
 ###
