@@ -9,6 +9,8 @@
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=B403GJErHZpx&format=png&color=000000" height="40" alt="MongoDB logo"  />
+  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=uVERmCBZZACL&format=png&color=000000" height="40" alt="notion logo"  />
