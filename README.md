@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">🎯🧠 Tentando fazer o computador me entender...<br>🌱 Estudando...</h4>
+<h4 align="center">🧠 Tentando fazer o computador me entender...<br>🌱 Estudando...</h4>
 
 ###
 
